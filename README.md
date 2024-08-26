@@ -35,7 +35,7 @@ Este proyecto es un trabajo en equipo realizado por tres estudiantes de Ingenier
 - **Librerías de Python**:
   - `matplotlib` y `seaborn`: Para la visualización de datos y gráficos.
   - `numpy` y `pandas`: Para manipulación y análisis de datos.
-  - `sklearn`: Para la implementación de K-Means y análisis de silueta.
+  - `sklearn`: Para la implementación de clustering.
 
 ## Resultados Esperados
 
